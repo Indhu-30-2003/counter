@@ -1,0 +1,15 @@
+.Container{
+    margin-top: 40px;
+    border:2px solid black;
+    padding:10px;
+    background-color: lightskyblue;
+
+}
+.increment, .decrement{
+    padding:5px;
+    background-color: black;
+    color: white;
+    outline: none;
+    border:none;
+    margin-left: 10px;
+}
